@@ -1,6 +1,6 @@
 ## Olá Eu sou o Vitor
 
-- 👨‍💻 Hoje trabalho com Front-end
+- 👨‍💻 Hoje trabalho como assistente de sistemas
 - 🌱 Estudando frameworks de javascript
 
 <div style="display: inline_block"><br>
