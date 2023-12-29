@@ -1,7 +1,7 @@
-## Olá Eu sou o Vitor
+## Hello world, I'm Vitor
 
-- 👨‍💻 Hoje trabalho como assistente de sistemas
-- 🌱 Estudando frameworks de javascript
+  👨🏻‍💻  About Me
+- 🌱
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
