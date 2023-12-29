@@ -1,5 +1,7 @@
 <p align="center">Hello world, I'm Vitor</p>&nbsp;
 
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" style="max-width: 100%;">
+
  &nbsp;
  &nbsp;
 
